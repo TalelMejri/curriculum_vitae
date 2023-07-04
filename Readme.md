@@ -9,7 +9,7 @@ A simple CV template made with LaTeX
 5. Check the file
 6. Download File
 
-## You Can Check This Repos For More And Advanced Information
+## You can check out these repositories for more advanced information
 1.<a href="https://github.com/youssefchlendi/curriculumvitae">Check This Repos</a>
 
 ## Preview
