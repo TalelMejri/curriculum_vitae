@@ -1,7 +1,7 @@
-#Exemple Cv Template
+##Exemple Cv Template
 A simple CV template made with LaTeX
 
-#How To Use It 
+##How To Use It 
 1. Download the zip file or clone the repository
 2. Open the Editeur en ligne De Latex[1]
 3. copier fichier Latex dans l'edirteur en ligne
